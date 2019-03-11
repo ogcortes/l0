@@ -1,0 +1,13 @@
+
+C:\Users\Oriel\Desktop\l0>doskey /History
+cd C:\Users\Oriel\Desktop\l0
+git init
+git add *
+git commit -m "first commit"
+git push
+git remote add origin https://github.com/ogcortes/l0.git
+git push
+git push -u origin master
+doskey /History
+git pull
+doskey /History
